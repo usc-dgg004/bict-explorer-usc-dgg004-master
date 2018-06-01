@@ -1,0 +1,8 @@
+.background, .column {
+    -fx-background-color: #FFDAB9;
+}
+
+.column {
+    -fx-text-fill: #A0522D;
+    -fx-font-size: 15px;
+}

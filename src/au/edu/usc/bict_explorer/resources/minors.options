@@ -1,0 +1,6 @@
+BICT	BICT core	BUS101,BUS104,BUS106,COR109,ICT110,ICT112,ICT115,ICT120,ICT351,ICT352	These core courses are required, plus either ICT341 or ICT342
+SD	Software Development	ICT112,ICT221,ICT310,ICT311	A software development minor enables you to be a programmer.
+GP	Game Programming	SGD102,SGD213,SGD240,SGD300	The game programming minor enables you to be a game programmer.
+TCN	Telecoms and Networks	ICT120,ICT220,ICT301,ICT321	With this minor you can design and manage computer networks.
+DM	Data Management	ICT110,ICT211,ICT320,ICT321	The data management minor enables you to work as a database administrator.
+IS	Information Systems	ICT112,ICT115,ICT211,ICT310	You can work as a systems analyst, solving business problems.

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.media.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="406.0" prefWidth="777.0" styleClass="background" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="au.edu.usc.bict_explorer.controller.BictController" fx:id="mainPanel">
+   <children>
+      <Label layoutX="305.0" layoutY="32.0" text="BICT Explorer" textFill="#752424">
+         <font>
+            <Font name="DejaVu Sans Bold" size="29.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="74.0" fitWidth="114.0" layoutX="14.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../resources/newlogo2.png" />
+         </image>
+      </ImageView>
+      <TableView fx:id="viewRecords" layoutX="16.0" layoutY="102.0" prefHeight="285.0" prefWidth="745.0" styleClass="column">
+        <columns>
+          <TableColumn editable="false" prefWidth="191.0" styleClass="column" text="Careers" />
+          <TableColumn editable="false" minWidth="0.0" prefWidth="236.0" styleClass="column" text="Recommended BICT Minors" />
+            <TableColumn editable="false" prefWidth="352.0" styleClass="column" text="Required Courses" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

@@ -1,0 +1,49 @@
+%list of courses taught on the Bachelor of ICT
+%%BICT core courses
+BUS101	Business Analytics		Introduction to Business Analytics and Statistics.	12
+BUS104	Introduction to Management		First management course.	12
+BUS106	Accounting for Business		Basic accounting knowledge for business undergraduates.	12
+COR109	Communication and Thought		Communication for academic and professional settings.	123
+ICT110	Introduction to Data Science		This class is an introduction to the practice of data science.	1
+ICT112	Creative Problem Solving with Programming		This course teaches you to program with Python etc.	1
+ICT115	Introduction to Systems Design		This course introduces the software lifecycle and foundation concepts of systems analysis and design.	2
+ICT120	Introduction to Telecommunication and Networks		This course introduces you to important concepts focusing on technology and protocols used by most people using the Internet.	2
+%advanced courses
+ICT351	ICT Professional Practice		This course is structured to assist you in your future role as an Information and Communication Technology professional.	2	ICT221,ICT220,ICT211
+ICT352	ICT Project Management		The subject is a practitioners approach to ICT project management and quality assurance.	1	ICT221,ICT220,ICT211,SGD200,SGD202
+ICT341	ICT Internship		A one-semester internship in industry.	12
+ICT342	ICT Industry Project		Industry group project	12
+%%Minors and Elective Courses
+%%Data Management
+ICT211	Database Design		This course introduces you to the major concepts, methodologies, tools and techniques that are required to analyse, design, and develop well-structured databases for modern organisations.	1	ICT110,BUS108
+ICT320	Database Programming		This course provides you with advanced database concepts including advanced SQL and NoSQL database systems.	2	ICT211,ICT112
+ICT321	Architecture and Systems Integration		This course will teach you skills in enterprise architecture planning (EAP) and in enterprise application integration (EAI)	2	ICT112,ICT211,ICT220,ICT221
+%%Game Programming
+SGD102	Introduction to Games Scripting		In this course, you will learn the basics of scripting within industry standard game engines.	12	
+SGD213	Professional Games Programming		In this course, you will apply the programming skills learnt in SGD203 to Unity, and the C# programming language.	1	SGD102,ICT112
+SGD240	Advanced Games Programming		This course builds on the programming knowledge from SGD213 and covers a variety of advanced topics that you could choose to specialise in as a programmer within the games industry.	2	SGD213
+SGD300	Advanced Games Programming 2.0		Continuing from SGD240, this course covers advanced topics that you could choose to specialise in as a programmer within the games industry.	2	SGD240
+%Information Systems
+ICT310	Systems Analysis and Design		The course introduces the student to a range of concepts used in the analysis and design of information systems.	1	ICT112,ICT115,ICT221
+%Plus ICT112, ICT115, ICT211
+%%Software Development
+ICT221	Software Development 1		Object-oriented and GUI programming with Java	1	ICT112
+ICT311	Mobile App Development		This course introduces students to important concepts and aspects in mobile application development on Java based Android phones, including UI design, data persistence, multimedia support, sensor management, multithreading, debug and test, and application publishing.	2	ICT221
+%Plus ICT112, ICT310
+%%Telecommunications and Networks
+ICT220	Telecommunications and Networks		This course explores the technology that forms the basis of modern and future networks.	2	ICT120
+ICT301	Advanced Network Topics, Management and Security		This course builds on ICT220 Telecommunications & Networks with a more technical approach to network design and specifically management.	2	ICT220
+%Plus ICT120, ICT321
+%% Recommended electives for BICT
+MTH103	Introduction to Applied Mathematics		This course is designed to ensure you have the working knowledge for problem-solving in non-calculus areas to support topics in science and engineering. You will explore measurement and calculation; vector and matrix methods; geometry and trigonometry; and the algebra and graphing of linear, quadratic, exponential and logarithmic functions to model problems in context. Your skills in the recall, use and communication of the mathematics presented in this course provides the foundation for further studies in mathematics.	1
+MTH212	Discrete Mathematics		The basic maths (logic, sets, relations, graph theory) that all good programmers need to know.	2	MTH103
+DES221	Introduction to Interaction & UX Design		This course will introduce you to the concepts of User Interface, Interaction and User Experience design together with the codes, tools, skills and standards required to create effective interactive media for the online environment. You will learn the critical relationships between varying interface and interaction design elements. These elements include: ideation; wireframing; prototyping; information architecture; user scenarios and usability testing; HTML5 and CSS writing; rationale writing and pitching; and search engine optimisation.	1
+DES222	Responsive Website Design		You will build on skills acquired in the previous course by iteration and by the introduction of additional competencies in Responsive Website Design (RWD) for multiple devices, File Transfer Protocol (FTP) and cPanel processes. This course introduces students to the content management system (CMS). On successful completion of the is course you will be able to design and develop a dynamic website that is targeted towards an identified and described major user group, supports the multi-device site visitor and complies with current industry standards for fluid design.	2	DES221
+DES223	e-Media C		This course introduces you to JavaScript, jQuery and the development of interactive applications for web-based delivery including CSS3 animations. You will learn the basic techniques of web animation, and the process of developing interactive applications. This includes: designing and implementing website animation; developing an animation plan; applying and using object orientated script to control on-screen actions and behaviours; designing and implementing animation; integrating media files within the application and designing effective and intuitive user control of web-based interactivity.	1	DES222
+ENG103	Introduction to the Internet of Things		In this course you will start developing your micro-computing skills, which are critical for engineers to be able to logically analyze problems and implement solutions that are future focused. Computing and technology are rapidly changing and the technical professionals of the future will be expected to adapt to, and implement new technologies. Using a project-based format, you will develop your computing skills in the context of the rapidly developing Internet of Things (IoT) using micro-computers and controllers (eg. Raspberry Pi and Arduino).	2
+ELECT1	Elective 1		Any other USC course.	123
+ELECT2	Elective 2		Any other USC course.	123
+ELECT3	Elective 3		Any other USC course.	123
+ELECT4	Elective 4		Any other USC course.	123
+
+

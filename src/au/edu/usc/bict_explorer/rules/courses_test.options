@@ -1,0 +1,19 @@
+%list of courses taught on the Bachelor of ICT
+%%BICT core courses
+BUS101	Business Analytics		Introduction to Business Analytics and Statistics.	12
+BUS104	Introduction to Management		First management course.	12
+BUS106	Accounting for Business		Basic accounting knowledge for business undergraduates.	12
+COR109	Communication and Thought		Communication for academic and professional settings.	123
+ICT110	Introduction to Data Science		This class is an introduction to the practice of data science.	1
+ICT112	Creative Problem Solving with Programming		This course teaches you to program with Python etc.	1
+ICT115	Introduction to Systems Design		This course introduces the software lifecycle and foundation concepts of systems analysis and design.	2
+ICT211	Database Design		This course introduces you to the major concepts, methodologies, tools and techniques that are required to analyse, design, and develop well-structured databases for modern organisations.	1	ICT110
+%Information Systems
+ICT310	Systems Analysis and Design		The course introduces the student to a range of concepts used in the analysis and design of information systems.	1	ICT112,ICT115,ICT221
+%Plus ICT112, ICT115, ICT211
+%%Software Development
+ICT221	Software Development 1		Object-oriented and GUI programming with Java	123	ICT112,MTH212
+ICT311	Mobile App Development		This course introduces students to important concepts and aspects in mobile application development on Java based Android phones.	2	ICT221
+
+
+
